@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/halt-mich-fest/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Halt mich fest](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/halt-mich-fest/) |
+| **Get License** | [Get License For Halt mich fest](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/halt-mich-fest/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f140c45b20097027bfd2f2221f4171c01a622dfde027b9201eebdcd7ab7202c1` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
