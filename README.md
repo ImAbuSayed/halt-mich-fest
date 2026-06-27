@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, die Stadt ist hellwach, doch ich seh' nur dein Gesicht
+> Tausend Lichter in der Nacht, aber alles dreht um dich
+> Ich fahr' im Benz durch den Block, Baby, sag mir, wo du bist
+> Steig ein, lass uns flieh'n, weil die Tension uns zerfrisst
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
